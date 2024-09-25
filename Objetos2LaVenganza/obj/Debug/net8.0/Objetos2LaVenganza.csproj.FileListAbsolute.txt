@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\bin\Debug\net8.0\Objetos2LaVenganza.exe
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\bin\Debug\net8.0\Objetos2LaVenganza.deps.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\bin\Debug\net8.0\Objetos2LaVenganza.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\bin\Debug\net8.0\Objetos2LaVenganza.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\bin\Debug\net8.0\Objetos2LaVenganza.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\Objetos2LaVenganza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\Objetos2LaVenganza.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\Objetos2LaVenganza.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\Objetos2LaVenganza.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\Objetos2LaVenganza.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\Objetos2LaVenganza.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\refint\Objetos2LaVenganza.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\Objetos2LaVenganza.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\Objetos2LaVenganza.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos2LaVenganza\obj\Debug\net8.0\ref\Objetos2LaVenganza.dll

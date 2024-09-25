@@ -1,0 +1,7 @@
+﻿Build started at 3:04 PM...
+1>------ Build started: Project: Objetos, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Objetos\Program.cs(1,13,1,13): error CS1002: ; expected
+1>Done building project "Objetos.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:04 PM and took 00.244 seconds ==========

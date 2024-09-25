@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\Objetos2LaVenganza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C143DD41-49CB-447B-8F47-FDB96DBDDEE4}|Objetos2LaVenganza.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\objetos2lavenganza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C143DD41-49CB-447B-8F47-FDB96DBDDEE4}|Objetos2LaVenganza.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\Objetos2LaVenganza\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\Objetos2LaVenganza\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:06:48.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
