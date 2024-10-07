@@ -6,8 +6,6 @@ public class Calculadora
 
     public static void Main(string[] args)
     {
-        Calculadora calc = new Calculadora(); // Crear una instancia de la clase Calculadora
-
         Console.WriteLine("Bienvenido a la Calculadora ");
         Console.WriteLine("Por favor, selecciona la operacion a realizar de la siguiente lista utilizando los numeros presentados");
         Console.WriteLine("1 \t Suma");
@@ -17,37 +15,48 @@ public class Calculadora
         Console.WriteLine("5 \t Potencia");
         Console.WriteLine("6 \t Raiz Cuadrada");
 
-        string input = Console.ReadLine();
-        if (int.TryParse(input, out calc.menu1))
+        Resta resta = new Resta();
+        Suma suma = new Suma();
+        Multiplicacion multiplicacion = new Multiplicacion();
+        Division division = new Division();
+        Potencia potencia = new Potencia();
+        Raiz raiz = new Raiz();
+
+        int menu1 = Convert.ToInt32(Console.ReadLine());
+
+        if (menu1 == 1)
         {
-            switch (calc.menu1)
-            {
-                case 1:
-                    Console.WriteLine("Has seleccionado Suma");
-                    break;
-                case 2:
-                    Console.WriteLine("Has seleccionado Resta");
-                    break;
-                case 3:
-                    Console.WriteLine("Has seleccionado Multiplicacion");
-                    break;
-                case 4:
-                    Console.WriteLine("Has seleccionado Division");
-                    break;
-                case 5:
-                    Console.WriteLine("Has seleccionado Potencia");
-                    break;
-                case 6:
-                    Console.WriteLine("Has seleccionado Raiz Cuadrada");
-                    break;
-                default:
-                    Console.WriteLine("Seleccion no valida");
-                    break;
-            }
+            Console.WriteLine("Has seleccionado Suma");
+            suma.Sumar();
         }
-        else
+        if (menu1 == 2)
         {
-            Console.WriteLine("Entrada no válida. Por favor, ingresa un número.");
+            Console.WriteLine("Has seleccionado Resta");
+            resta.Restar();
         }
+        if (menu1 == 3)
+        {
+            Console.WriteLine("Has seleccionado Multiplicacion");
+            multiplicacion.multiplicar();
+        }
+        if (menu1 == 4)
+        {
+            Console.WriteLine("Has seleccionado Division");
+            division.Dividir();
+        }
+        if (menu1 == 5)
+        {
+            Console.WriteLine("Has seleccionado Potencia");
+        }
+        if (menu1 == 6)
+        {
+            Console.WriteLine("Has seleccionado Raiz Cuadrada");
+            raiz.Enraizar();
+        }
+        else if (menu1 >= 7 && menu1 <= 0)
+        {
+            Console.WriteLine("Seleccion no valida");
+        }
+
     }
 }

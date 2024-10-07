@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.csproj": {}
+    "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.csproj": {
+    "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\obj\\",
+        "projectPath": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.csproj",
+        "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
