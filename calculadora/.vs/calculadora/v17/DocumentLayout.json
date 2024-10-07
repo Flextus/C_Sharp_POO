@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\c_sharp_poo\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\c_sharp_poo\\calculadora\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|solutionrelative:suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\c_sharp_poo\\calculadora\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|solutionrelative:resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\c_sharp_poo\\calculadora\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|solutionrelative:multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\c_sharp_poo\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|c:\\users\\pc\\onedrive\\documentos\\github\\c_sharp_poo\\calculadora\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC32F60-9C8F-4439-A64D-96177FEA9204}|calculadora.csproj|solutionrelative:resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,21 +29,25 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "resta.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\resta.cs",
-              "RelativeDocumentMoniker": "resta.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\resta.cs",
-              "RelativeToolTip": "resta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:00:06.967Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.cs",
+              "RelativeDocumentMoniker": "calculadora.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.cs",
+              "RelativeToolTip": "calculadora.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:13:45.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "suma.cs",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\suma.cs",
               "RelativeDocumentMoniker": "suma.cs",
@@ -52,15 +60,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "calculadora.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.cs",
-              "RelativeDocumentMoniker": "calculadora.cs",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\calculadora.cs",
-              "RelativeToolTip": "calculadora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "DocumentIndex": 3,
+              "Title": "resta.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\resta.cs",
+              "RelativeDocumentMoniker": "resta.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\resta.cs",
+              "RelativeToolTip": "resta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:13:45.172Z",
+              "WhenOpened": "2024-10-03T17:00:06.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "multiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\multiplicacion.cs",
+              "RelativeDocumentMoniker": "multiplicacion.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\calculadora\\multiplicacion.cs",
+              "RelativeToolTip": "multiplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:34:45.261Z",
               "EditorCaption": ""
             }
           ]

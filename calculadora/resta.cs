@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class resta
+public class Resta
 {
     public float restando1, restando2, restaRes;
 

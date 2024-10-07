@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class multiplicacion
+public class Multiplicacion
 {
     public float factor1, factor2, producto;
 
