@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\comunicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\comunicacion.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\comunicacion.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\comunicacion.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\comunicacion.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\bin\Debug\net8.0\comunicacion.exe
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\bin\Debug\net8.0\comunicacion.deps.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\bin\Debug\net8.0\comunicacion.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\bin\Debug\net8.0\comunicacion.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\bin\Debug\net8.0\comunicacion.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\comunicacion.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\refint\comunicacion.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\comunicacion.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\comunicacion.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\comunicacion\obj\Debug\net8.0\ref\comunicacion.dll
