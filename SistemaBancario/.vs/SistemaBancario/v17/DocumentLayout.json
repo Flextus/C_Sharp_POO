@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\SistemaBancario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C08E5F-8132-4C96-982C-F1C1B13D7D18}|SistemaBancario.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\sistemabancario\\pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C08E5F-8132-4C96-982C-F1C1B13D7D18}|SistemaBancario.csproj|solutionrelative:pruebacuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C08E5F-8132-4C96-982C-F1C1B13D7D18}|SistemaBancario.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\sistemabancario\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C08E5F-8132-4C96-982C-F1C1B13D7D18}|SistemaBancario.csproj|solutionrelative:cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\SistemaBancario\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Cuenta.cs",
+              "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\SistemaBancario\\Cuenta.cs",
+              "RelativeToolTip": "Cuenta.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:25:21.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\SistemaBancario\\PruebaCuenta.cs",
+              "RelativeDocumentMoniker": "PruebaCuenta.cs",
+              "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\SistemaBancario\\PruebaCuenta.cs",
+              "RelativeToolTip": "PruebaCuenta.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA8wAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:24:51.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
