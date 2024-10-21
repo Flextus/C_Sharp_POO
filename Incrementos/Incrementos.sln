@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incrementos", "Incrementos.csproj", "{B46CC68A-1D63-4541-9248-18B691E84464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46CC68A-1D63-4541-9248-18B691E84464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46CC68A-1D63-4541-9248-18B691E84464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46CC68A-1D63-4541-9248-18B691E84464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46CC68A-1D63-4541-9248-18B691E84464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D348F164-C01E-42F9-8B57-5C0F043580F0}
+	EndGlobalSection
+EndGlobal

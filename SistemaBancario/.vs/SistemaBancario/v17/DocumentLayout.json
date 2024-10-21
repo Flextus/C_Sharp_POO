@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -38,8 +34,7 @@
               "RelativeToolTip": "Cuenta.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAuwBMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T20:25:21.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T20:25:21.708Z"
             },
             {
               "$type": "Document",
@@ -49,10 +44,14 @@
               "RelativeDocumentMoniker": "PruebaCuenta.cs",
               "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\SistemaBancario\\PruebaCuenta.cs",
               "RelativeToolTip": "PruebaCuenta.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA8wAkAAAA8AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T20:24:51.992Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

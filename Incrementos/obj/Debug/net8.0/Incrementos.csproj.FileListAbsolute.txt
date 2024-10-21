@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\bin\Debug\net8.0\Incrementos.exe
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\bin\Debug\net8.0\Incrementos.deps.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\bin\Debug\net8.0\Incrementos.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\bin\Debug\net8.0\Incrementos.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\bin\Debug\net8.0\Incrementos.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\Incrementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\Incrementos.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\Incrementos.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\Incrementos.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\Incrementos.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\Incrementos.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\refint\Incrementos.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\Incrementos.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\Incrementos.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\Incrementos\obj\Debug\net8.0\ref\Incrementos.dll
