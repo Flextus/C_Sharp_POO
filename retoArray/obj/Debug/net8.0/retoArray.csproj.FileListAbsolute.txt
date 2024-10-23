@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\bin\Debug\net8.0\retoArray.exe
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\bin\Debug\net8.0\retoArray.deps.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\bin\Debug\net8.0\retoArray.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\bin\Debug\net8.0\retoArray.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\bin\Debug\net8.0\retoArray.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\retoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\retoArray.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\retoArray.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\retoArray.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\retoArray.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\retoArray.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\refint\retoArray.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\retoArray.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\retoArray.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\retoArray\obj\Debug\net8.0\ref\retoArray.dll

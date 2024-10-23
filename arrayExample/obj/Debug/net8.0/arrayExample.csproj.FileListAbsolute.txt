@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\bin\Debug\net8.0\arrayExample.exe
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\bin\Debug\net8.0\arrayExample.deps.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\bin\Debug\net8.0\arrayExample.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\bin\Debug\net8.0\arrayExample.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\bin\Debug\net8.0\arrayExample.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\arrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\arrayExample.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\arrayExample.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\arrayExample.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\arrayExample.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\arrayExample.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\refint\arrayExample.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\arrayExample.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\arrayExample.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\arrayExample\obj\Debug\net8.0\ref\arrayExample.dll

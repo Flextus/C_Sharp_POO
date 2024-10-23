@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\arrayExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0929CE-0418-4049-BB00-53F0E46728B4}|arrayExample.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\arrayexample\\arreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0929CE-0418-4049-BB00-53F0E46728B4}|arrayExample.csproj|solutionrelative:arreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arreglo.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\arrayExample\\arreglo.cs",
+              "RelativeDocumentMoniker": "arreglo.cs",
+              "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\arrayExample\\arreglo.cs",
+              "RelativeToolTip": "arreglo.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA4wCMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:54:34.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
