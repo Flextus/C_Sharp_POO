@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\sistemaBancarioFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\sistemaBancarioFinal.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\sistemaBancarioFinal.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\sistemaBancarioFinal.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\sistemaBancarioFinal.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\bin\Debug\net8.0\sistemaBancarioFinal.exe
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\bin\Debug\net8.0\sistemaBancarioFinal.deps.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\bin\Debug\net8.0\sistemaBancarioFinal.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\bin\Debug\net8.0\sistemaBancarioFinal.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\bin\Debug\net8.0\sistemaBancarioFinal.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\sistemaBancarioFinal.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\refint\sistemaBancarioFinal.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\sistemaBancarioFinal.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\sistemaBancarioFinal.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\sistemaBancarioFinal\obj\Debug\net8.0\ref\sistemaBancarioFinal.dll
