@@ -1,0 +1,15 @@
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\baraja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\baraja.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\baraja.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\baraja.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\baraja.sourcelink.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\bin\Debug\net8.0\baraja.exe
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\bin\Debug\net8.0\baraja.deps.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\bin\Debug\net8.0\baraja.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\bin\Debug\net8.0\baraja.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\bin\Debug\net8.0\baraja.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\baraja.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\refint\baraja.dll
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\baraja.pdb
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\baraja.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\GitHub\C_Sharp_POO\baraja\obj\Debug\net8.0\ref\baraja.dll

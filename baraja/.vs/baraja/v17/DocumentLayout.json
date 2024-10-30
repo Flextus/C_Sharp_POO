@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\baraja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D38EA6A-28BB-4162-9E9A-96DAB8619CFB}|baraja.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\baraja\\paquetedecartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D38EA6A-28BB-4162-9E9A-96DAB8619CFB}|baraja.csproj|solutionrelative:paquetedecartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D38EA6A-28BB-4162-9E9A-96DAB8619CFB}|baraja.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\baraja\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D38EA6A-28BB-4162-9E9A-96DAB8619CFB}|baraja.csproj|solutionrelative:carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D38EA6A-28BB-4162-9E9A-96DAB8619CFB}|baraja.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\baraja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D38EA6A-28BB-4162-9E9A-96DAB8619CFB}|baraja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\baraja\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\baraja\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:14:09.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\baraja\\Carta.cs",
+              "RelativeDocumentMoniker": "Carta.cs",
+              "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\baraja\\Carta.cs",
+              "RelativeToolTip": "Carta.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:27:06.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaqueteDeCartas.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\baraja\\PaqueteDeCartas.cs",
+              "RelativeDocumentMoniker": "PaqueteDeCartas.cs",
+              "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\baraja\\PaqueteDeCartas.cs",
+              "RelativeToolTip": "PaqueteDeCartas.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:27:45.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

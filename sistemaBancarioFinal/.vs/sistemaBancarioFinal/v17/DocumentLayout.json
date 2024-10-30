@@ -24,15 +24,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -44,8 +40,7 @@
               "RelativeToolTip": "..\\calculadora\\calculadora.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T20:45:09.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T20:45:09.966Z"
             },
             {
               "$type": "Document",
@@ -57,8 +52,7 @@
               "RelativeToolTip": "..\\arrayExample\\arreglo.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T20:22:04.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T20:22:04.371Z"
             },
             {
               "$type": "Document",
@@ -68,7 +62,7 @@
               "RelativeDocumentMoniker": "Registro.cs",
               "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\sistemaBancarioFinal\\Registro.cs",
               "RelativeToolTip": "Registro.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA8wA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T20:15:32.737Z",
               "EditorCaption": ""
@@ -83,8 +77,11 @@
               "RelativeToolTip": "Acceso.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T20:13:40.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T20:13:40.308Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
