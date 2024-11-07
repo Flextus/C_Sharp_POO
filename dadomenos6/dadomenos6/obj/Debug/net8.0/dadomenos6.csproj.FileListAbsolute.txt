@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\bin\Debug\net8.0\dadomenos6.exe
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\bin\Debug\net8.0\dadomenos6.deps.json
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\bin\Debug\net8.0\dadomenos6.runtimeconfig.json
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\bin\Debug\net8.0\dadomenos6.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\bin\Debug\net8.0\dadomenos6.pdb
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\dadomenos6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\dadomenos6.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\dadomenos6.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\dadomenos6.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\dadomenos6.sourcelink.json
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\dadomenos6.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\refint\dadomenos6.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\dadomenos6.pdb
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\dadomenos6.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\dadomenos6\dadomenos6\obj\Debug\net8.0\ref\dadomenos6.dll

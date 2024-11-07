@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\dado6k\dado6k\obj\Debug\net8.0\dado6k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\dado6k\dado6k\obj\Debug\net8.0\dado6k.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\dado6k\dado6k\obj\Debug\net8.0\dado6k.AssemblyInfo.cs
+C:\Users\PC\source\repos\dado6k\dado6k\obj\Debug\net8.0\dado6k.csproj.CoreCompileInputs.cache

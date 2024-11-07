@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\esrados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\esrados.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\esrados.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\esrados.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\esrados.sourcelink.json
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\bin\Debug\net8.0\esrados.exe
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\bin\Debug\net8.0\esrados.deps.json
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\bin\Debug\net8.0\esrados.runtimeconfig.json
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\bin\Debug\net8.0\esrados.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\bin\Debug\net8.0\esrados.pdb
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\esrados.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\refint\esrados.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\esrados.pdb
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\esrados.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\C_Sharp_POO\esrados\esrados\obj\Debug\net8.0\ref\esrados.dll

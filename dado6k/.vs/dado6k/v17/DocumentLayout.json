@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\dado6k\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44BD776-F08D-48D2-8984-7B2C5D8516B8}|dado6k\\dado6k.csproj|c:\\users\\pc\\source\\repos\\dado6k\\dado6k\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44BD776-F08D-48D2-8984-7B2C5D8516B8}|dado6k\\dado6k.csproj|solutionrelative:dado6k\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\dado6k\\dado6k\\Program.cs",
+              "RelativeDocumentMoniker": "dado6k\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\dado6k\\dado6k\\Program.cs",
+              "RelativeToolTip": "dado6k\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:49:42.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

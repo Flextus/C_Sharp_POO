@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\dados2\dados2\bin\Debug\net8.0\dados2.exe
+C:\Users\PC\source\repos\dados2\dados2\bin\Debug\net8.0\dados2.deps.json
+C:\Users\PC\source\repos\dados2\dados2\bin\Debug\net8.0\dados2.runtimeconfig.json
+C:\Users\PC\source\repos\dados2\dados2\bin\Debug\net8.0\dados2.dll
+C:\Users\PC\source\repos\dados2\dados2\bin\Debug\net8.0\dados2.pdb
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\dados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\dados2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\dados2.AssemblyInfo.cs
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\dados2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\dados2.dll
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\refint\dados2.dll
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\dados2.pdb
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\dados2.genruntimeconfig.cache
+C:\Users\PC\source\repos\dados2\dados2\obj\Debug\net8.0\ref\dados2.dll
