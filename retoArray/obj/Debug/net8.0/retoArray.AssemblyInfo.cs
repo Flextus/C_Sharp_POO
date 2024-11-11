@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("retoArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e0e23d40b4141058c96376cf06762e20da3cc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e4d619dc38e1819d02cf9d438e463e56247062e")]
 [assembly: System.Reflection.AssemblyProductAttribute("retoArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("retoArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

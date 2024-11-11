@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\retoArray\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{358791BF-51DF-4E24-881B-91519184DA18}|retoArray.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\retoarray\\array20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358791BF-51DF-4E24-881B-91519184DA18}|retoArray.csproj|solutionrelative:array20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\retoArray\\array20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:array20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358791BF-51DF-4E24-881B-91519184DA18}|retoArray.csproj|c:\\users\\benja\\onedrive\\documentos\\github\\c_sharp_poo\\retoarray\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358791BF-51DF-4E24-881B-91519184DA18}|retoArray.csproj|solutionrelative:gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\retoArray\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "array20.cs",
               "ToolTip": "C:\\Users\\benja\\OneDrive\\Documentos\\GitHub\\C_Sharp_POO\\retoArray\\array20.cs",
               "RelativeToolTip": "array20.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA8wAwAAAAMAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T20:46:14.508Z",
               "EditorCaption": ""
