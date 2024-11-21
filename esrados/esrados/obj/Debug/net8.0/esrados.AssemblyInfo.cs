@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("esrados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+141d9fdfea6d2236479626bcd23b303f4fff9f63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5c9bc8b936414b118d2d64674c65cbead9566ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("esrados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("esrados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
